@@ -1,10 +1,11 @@
 # Frontend Masters Electron Live workshop with Steve Kinney (Workshop #90)
 
 * November 15, 2016
-* [Steve Kinney](http://stevekinney.net/)
+* [Steve Kinney](http://stevekinney.net/) [@stevekinney on twitter](https://twitter.com/stevekinney)
 * [Setup Instructions](https://gist.github.com/stevekinney/4cc5c61e827c00dbea55409f26d1da02)
 * [Slides](https://speakerdeck.com/stevekinney/electron-frontend-masters)
-
+* [Turing School](http://turing.io)
+* [Electron in Action (book)](http://bit.ly/electronjs)
 
 ## Videos
 
