@@ -7,9 +7,14 @@
 ## VIDEOs
 
 * LiveStream: https://livestream.com/accounts/4894689/events/6625485
-* Segment 1:
-* Segment 2:
-* Segment 3:
+
+### Segment 1
+
+<iframe id="ls_embed_1479225827" src="https://livestream.com/accounts/4894689/events/6625485/videos/141950011/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe><script type="text/javascript" data-embed_id="ls_embed_1479225827" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+
+### Segment 2
+
+### Segment 3:
 
 
 ## Copy of Setup Instructions
@@ -28,3 +33,4 @@ Finally, debugging the main process is easiest using Visual Studio Code, which i
 ## Other
 
 * [Chat Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+* [Suz Hinton - noopkat](http://noopkat.com/)
