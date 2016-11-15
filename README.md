@@ -4,18 +4,15 @@
 * [Steve Kinney](http://stevekinney.net/)
 * [Setup Instructions](https://gist.github.com/stevekinney/4cc5c61e827c00dbea55409f26d1da02)
 
-## VIDEOs
+## Videos
 
-* LiveStream: https://livestream.com/accounts/4894689/events/6625485
+* [Live Video](https://frontendmasters.com/live-event/electron-live/)
 
-### Segment 1
+The video segments are available in the live player as soon as they're
+cut and posted. Click on the little drawer icon in the top right of
+the video player to see the available segments.
 
-<iframe id="ls_embed_1479225827" src="https://livestream.com/accounts/4894689/events/6625485/videos/141950011/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe><script type="text/javascript" data-embed_id="ls_embed_1479225827" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
-
-### Segment 2
-
-### Segment 3:
-
+![](video-drawer.jpg)
 
 ## Copy of Setup Instructions
 
@@ -34,3 +31,4 @@ Finally, debugging the main process is easiest using Visual Studio Code, which i
 
 * [Chat Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [Suz Hinton - noopkat](http://noopkat.com/)
+* [Electron Docs](http://electron.atom.io/docs/)
