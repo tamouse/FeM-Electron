@@ -3,6 +3,8 @@
 * November 15, 2016
 * [Steve Kinney](http://stevekinney.net/)
 * [Setup Instructions](https://gist.github.com/stevekinney/4cc5c61e827c00dbea55409f26d1da02)
+* [Slides](https://speakerdeck.com/stevekinney/electron-frontend-masters)
+
 
 ## Videos
 
