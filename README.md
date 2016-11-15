@@ -1,4 +1,4 @@
-# Frontend Masters Electron Live workshop with Steve Kinney
+# Frontend Masters Electron Live workshop with Steve Kinney (Workshop #90)
 
 * November 15, 2016
 * [Steve Kinney](http://stevekinney.net/)
@@ -23,3 +23,8 @@ Participants should have a recent version of Node.js installed on their system (
 Optional: It might be helpful to install Electron globally so that you can use it from the command line in case there are any issues with any of the dependencies in the project above. You can install this through `npm install -g electron`.
 
 Finally, debugging the main process is easiest using Visual Studio Code, which is available for all platforms (Windows, Linux, and macOS). This is not a hard requirement, but helpful if you'd like to follow along for that small segment of the workshop.
+
+
+## Other
+
+* [Chat Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
